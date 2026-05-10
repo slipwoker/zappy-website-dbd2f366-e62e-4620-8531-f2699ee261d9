@@ -2,13 +2,13 @@
 
 Magen Ne'eman (מגן נאמן) is an Israeli security and smart protection company offering high-standard installation of IP camera systems, Provision cameras, smart locks, biometric handles, intercom systems, and communication infrastructure. The brand emphasizes professionalism without compromise, aesthetic cable management with clean labeling, and intelligent security solutions. They serve both residential and commercial clients, including complex parking facilities. The business has a trustworthy, expert, and meticulous personality — positioning itself as a reliable partner for both security and smart home upgrades.
 
-Source: https://-dbd2f366.zappy5.app
+Source: https://example.com
 
 ---
 
 ## solar security cameras wireless outdoor — מגן נאמן
 
-URL: https://-dbd2f366.zappy5.app
+URL: https://example.com
 Description: Magen Ne&#39;eman (מגן נאמן) is an Israeli security and smart protection company offering high-standard installation of IP camera systems, Provision cameras, smart 
 
 solar security cameras wireless outdoor — מגן נאמן
@@ -948,7 +948,7 @@ Cat6/Cat6A · Fiber · תיוג מלא · ארגון מקצועי
 
 ## מדיניות פרטיות
 
-URL: https://-dbd2f366.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -1218,7 +1218,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-dbd2f366.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1497,7 +1497,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-dbd2f366.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
