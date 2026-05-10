@@ -1,0 +1,74 @@
+# מגן נאמן — Generative Engine Optimization Map
+
+> Magen Ne'eman (מגן נאמן) is an Israeli security and smart protection company offering high-standard installation of IP camera systems, Provision cameras, smart locks, biometric handles, intercom systems, and communication infrastructure. The brand emphasizes professionalism without compromise, aesthetic cable management with clean labeling, and intelligent security solutions. They serve both residential and commercial clients, including complex parking facilities. The business has a trustworthy, expert, and meticulous personality — positioning itself as a reliable partner for both security and smart home upgrades.
+
+---
+
+## Pages
+
+### בית
+https://-dbd2f366.zappy5.app
+Magen Ne&#39;eman (מגן נאמן) is an Israeli security and smart protection company offering high-standard installation of IP camera systems, Provision cameras, smart 
+
+## Legal & Policy
+
+### Privacy Policy
+https://-dbd2f366.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-dbd2f366.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-dbd2f366.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-dbd2f366.zappy5.app
+- Endpoint: https://-dbd2f366.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel, required)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About מגן נאמן
+Magen Ne'eman (מגן נאמן) is an Israeli security and smart protection company offering high-standard installation of IP camera systems, Provision cameras, smart locks, biometric handles, intercom systems, and communication infrastructure. The brand emphasizes professionalism without compromise, aesthetic cable management with clean labeling, and intelligent security solutions. They serve both residential and commercial clients, including complex parking facilities. The business has a trustworthy, expert, and meticulous personality — positioning itself as a reliable partner for both security and smart home upgrades.
+
+## Services/Products
+- Security cameras (IP systems, Provision cameras, remote viewing)
+- Smart locks and biometric handles
+- Communication infrastructure (cabling, server racks, internet)
+- Intercom systems and parking lot range solutions
+- Smart home systems and remote control
+
+## Target Audience
+- businesses and homeowners needing security, smart home, and communication infrastructure solutions
+- בעלי עסקים מחפשי אבטחה
+- בעלי בתים מחפשי אבטחה חכמה
+- רוכשי בתים חדשים מחפשי טכנולוגיה חכמה
+
+## Industry
+Security & Smart Home Technology
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-dbd2f366.zappy5.app/sitemap.xml
+- Robots: https://-dbd2f366.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-dbd2f366.zappy5.app/llms-full.txt
